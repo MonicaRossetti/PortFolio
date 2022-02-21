@@ -6,7 +6,7 @@ this repository is meant to showcase some of the Data Analytics personal project
   
 <p>Current Repository Contents (2/10/22):
    <li> Analysis of Chicago's crime rate trends and implications for Real Estate development: data preparation done in Knime and visualizatios in Tableau (see <a href="https://docs.google.com/presentation/d/1WZDgabfWSKs8JU47x6Jur5nELj4j6Z9Q/edit?usp=sharing&ouid=111269397538579219547&rtpof=true&sd=true">PowerPoint presentation</a>).
-  <img src="https://drive.google.com/file/d/112sF7YA85o9YpF8zK-4fNCnH2XJOzAB1/view?usp=sharing"/>
+  <img src="https://drive.google.com/file/d/112sF7YA85o9YpF8zK-4fNCnH2XJOzAB1/view?usp=sharing" alt="Chicago Crime Rate Versus Other Cities"> </img>
   </li>
   <li> Examples of using Tableau for data exploration and detection of outliers: 
      <br><a href="https://public.tableau.com/app/profile/monica.rossetti/viz/DetectingOutliers_16454693254450/StripPlot?publish=yes">Strip Plot</a>  
