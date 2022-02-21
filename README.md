@@ -6,6 +6,7 @@ this repository is meant to showcase some of the Data Analytics personal project
   
 <p>Current Repository Contents (2/10/22):
    <li> Analysis of Chicago's crime rate trends and implications for Real Estate development: data preparation done in Knime and visualizatios in Tableau.</li>
+  <li> Examples of using Tableau for data exploration and detection of outliers: <BR> <A>https://public.tableau.com/app/profile/monica.rossetti/viz/OutliersExploration-ControlChart/ControlChart?publish=yes</a> </li>
    <li> World Energy Sources Analysis from 2000 thru 2016: data preparation in Python. Data visualizations and dashboard in Tableau coming soon.</li>
 <BR/>
 <p>I hope you enjoy the content! <br/>
