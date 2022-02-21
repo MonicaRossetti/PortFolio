@@ -6,10 +6,12 @@ this repository is meant to showcase some of the Data Analytics personal project
   
 <p>Current Repository Contents (2/10/22):
    <li> Analysis of Chicago's crime rate trends and implications for Real Estate development: data preparation done in Knime and visualizatios in Tableau (see <a href="https://docs.google.com/presentation/d/1WZDgabfWSKs8JU47x6Jur5nELj4j6Z9Q/edit?usp=sharing&ouid=111269397538579219547&rtpof=true&sd=true">full PowerPoint presentation</a>).
-  </br></BR><table><tr><td><img src="./ChicagoVOtherCities.png" alt="Chicago Crime Rate Versus Other Cities" width=500 border=3> </img></td>
-                       <td><img src="./ChicagoVOtherCities.png" alt="Chicago Crime Rate Versus Other Cities" width=500 border=3> </img>  </td>  
-                   </tr></table>  
-  </br></br>
+  </BR>
+  <table cellpadding=5 cellspacing=5 border=0 marginleft="30px">
+      <tr><td><img src="./ChicagoVOtherCities.png" alt="Chicago Crime Rate Versus Other Cities" width=300 > </img></td> 
+          <td><img src="./CrimeTypesByArea.png" alt="Crime Types per Area" width=500   > </img>  </td>  
+      </tr></table>  
+  
   </li>
   <li> Examples of using Tableau for data exploration and detection of outliers: 
      <br><a href="https://public.tableau.com/app/profile/monica.rossetti/viz/DetectingOutliers_16454693254450/StripPlot?publish=yes">Strip Plot</a>  
