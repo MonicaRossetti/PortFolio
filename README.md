@@ -22,7 +22,8 @@ this repository is meant to showcase some of the Data Analytics personal project
    <li> Examples of using Tableau for data exploration and detection of outliers: 
      <br><a href="https://public.tableau.com/app/profile/monica.rossetti/viz/DetectingOutliers_16454693254450/StripPlot?publish=yes">Strip Plot</a>  
      <br><a href="https://public.tableau.com/app/profile/monica.rossetti/viz/DetectingOutliers_16454693254450/HistogramofProfit?publish=yes">Histogram Of Profits</a> 
-     <br><A href="https://public.tableau.com/app/profile/monica.rossetti/viz/OutliersExploration-ControlChart/ControlChart?publish=yes">Control Chart</a><BR>  
+     <br><A href="https://public.tableau.com/app/profile/monica.rossetti/viz/OutliersExploration-ControlChart/ControlChart?publish=yes">Control Chart</a><p>
+      <img src="./ControlChartOutliers.png" alt="Control Chart Outliers" width=300   >
    </li>
    <li> World Energy Sources Analysis from 2000 thru 2016: data preparation in Python. Data visualizations and dashboard in Tableau coming soon.</li>
 <BR/>
