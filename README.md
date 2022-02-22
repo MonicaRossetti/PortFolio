@@ -19,11 +19,19 @@ this repository is meant to showcase some of the Data Analytics personal project
   <li>Screenshot of guests analysis dashboard for Crystal Cruises: this was an interactive Tableau dashboard I developed that allowed executive users to explore the distribution of several guests dimensions (new X repeat guests, age, sex, preferred experience) by country of residence and sailing year. Data has been obcuscated for public display purposes. This visualization provided crucial insight into which markets/channels needed to have marketing and sales interventions to raise the proportion of new guests in future sales/years.<p>
   <img src="./NewVRepeatGuestsAnalysis.png" alt="Guest Analysis" width=500   > </img><p>
   </li>
-   <li> Examples of using Tableau for data exploration and detection of outliers: 
-     <br><a href="https://public.tableau.com/app/profile/monica.rossetti/viz/DetectingOutliers_16454693254450/StripPlot?publish=yes">Strip Plot</a>  
-     <br><a href="https://public.tableau.com/app/profile/monica.rossetti/viz/DetectingOutliers_16454693254450/HistogramofProfit?publish=yes">Histogram Of Profits</a> 
-     <br><A href="https://public.tableau.com/app/profile/monica.rossetti/viz/OutliersExploration-ControlChart/ControlChart?publish=yes">Control Chart</a><p>
-      <img src="./ControlChartOutliers.png" alt="Control Chart Outliers" width=300   >
+   <li> Examples of using Tableau for data exploration and detection of outliers: <p>
+  <table border="0">
+    <tr>
+      <td>
+          <a href="https://public.tableau.com/app/profile/monica.rossetti/viz/DetectingOutliers2/Dashboard1?publish=yes">Strip Plot And     Histogram of Profits</a>  <p>
+          <img src="./Detecting Outliers.png" alt="Detecting Outliers" width=300   >
+      </td>
+      <td>
+          <br><A href="https://public.tableau.com/app/profile/monica.rossetti/viz/OutliersExploration-ControlChart/ControlChart?publish=yes">Control Chart</a><p>
+          <img src="./ControlChartOutliers.png" alt="Control Chart Outliers" width=300   >
+      </td>
+    </tr>
+  </table>
    </li>
    <li> World Energy Sources Analysis from 2000 thru 2016: data preparation in Python. Data visualizations and dashboard in Tableau coming soon.</li>
 <BR/>
