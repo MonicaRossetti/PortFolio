@@ -17,7 +17,7 @@ this repository is meant to showcase some of the Data Analytics personal project
     <img src="./ProfitByCategory.png" alt="Profit by Categories and Regions" width=500   > </img><p>
   </li>
   <li>Screenshot of guests analysis dashboard for Crystal Cruises: this was an interactive Tableau dashboard I developed that allowed executive users to explore the distribution of several guests dimensions (new X repeat guests, age, sex, preferred experience) by country of residence and sailing year. Data has been obcuscated for public display purposes. This visualization provided crucial insight into which markets/channels needed to have marketing and sales interventions to raise the proportion of new guests in future sales/years.
-  <img src="./NewVRepeatGuestAnalysis.png" alt="Guest Analysis" width=500   > </img><p>
+  <img src="./NewVRepeatGuestsAnalysis.png" alt="Guest Analysis" width=500   > </img><p>
   </li>
    <li> Examples of using Tableau for data exploration and detection of outliers: 
      <br><a href="https://public.tableau.com/app/profile/monica.rossetti/viz/DetectingOutliers_16454693254450/StripPlot?publish=yes">Strip Plot</a>  
