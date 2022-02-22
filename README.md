@@ -24,7 +24,7 @@ this repository is meant to showcase some of the Data Analytics personal project
     <tr>
       <td>
           <a href="https://public.tableau.com/app/profile/monica.rossetti/viz/DetectingOutliers2/Dashboard1?publish=yes">Strip Plot And     Histogram of Profits</a>  <p>
-          <img src="./Detecting Outliers.png" alt="Detecting Outliers" width=300   >
+          <img src="./Detecting Outliers1.png" alt="Detecting Outliers" width=300   >
       </td>
       <td>
           <br><A href="https://public.tableau.com/app/profile/monica.rossetti/viz/OutliersExploration-ControlChart/ControlChart?publish=yes">Control Chart</a><p>
