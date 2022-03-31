@@ -37,9 +37,10 @@ this repository is meant to showcase some of the Data Analytics personal project
     </tr>
   </table>
    </li>
-   <li> World Energy Sources Trends Analysis from 2000 thru 2016: data preparation in Python and Tableau Prep.</li>
- <br><A href="https://public.tableau.com/app/profile/monica.rossetti/viz/WorldTrendsonEnergySources/Dashboard1?publish=yes">Tableua Public Dashboard</a><p>
-  <br><img src="./WorldEnergySources.png" alt="World EnergySources" width=300   >
+   <li> World Energy Sources Trends Analysis from 2000 thru 2016: data preparation in Python and Tableau Prep.
+    <br><A href="https://public.tableau.com/app/profile/monica.rossetti/viz/WorldTrendsonEnergySources/Dashboard1?publish=yes">Tableau Public Dashboard</a><p>
+    <br><img src="./WorldEnergySources.png" alt="World EnergySources" width=700   >
+  </li>
 <BR/>
 <p>I hope you enjoy the content! <br/>
 <p>Thank you for visiting,<br/> 
