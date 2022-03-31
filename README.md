@@ -13,6 +13,13 @@ this repository is meant to showcase some of the Data Analytics personal project
       </tr></table> 
   
   </li>
+     <li> World Energy Sources Trends Analysis from 2000 thru 2016: data preparation in Python and Tableau Prep.
+    <br><A href="https://public.tableau.com/app/profile/monica.rossetti/viz/WorldTrendsonEnergySources/Dashboard1?publish=yes">Tableau Public Dashboard</a><p>
+    <br><img src="./WorldEnergySources.png" alt="World EnergySources" width=700   >
+  </li>
+   <li>Screenshot of guests analysis dashboard for Crystal Cruises: this was an interactive Tableau dashboard I developed that allowed executive users to explore the distribution of several guests dimensions (new X repeat guests, age, sex, preferred experience) by country of residence and sailing year. Data has been obcuscated for public display purposes. This visualization provided crucial insight into which markets/channels needed to have marketing and sales interventions to raise the proportion of new guests in future sales/years.<p>
+  <img src="./NewVRepeatGuestsAnalysis.png" alt="Guest Analysis" width=500   > </img><p>
+  </li>
   <li> Simple Tableau SuperStore analysis of <a href="https://public.tableau.com/app/profile/monica.rossetti/viz/ProfitAnalysisbyRegionYear/Dashboard1?publish=yes">Profit by Categories and Regions</a>  to illustrate some best principles of visualizations design. It showcases static and interactive panels, allowing the user to both have a highlight view of profit, as well drilling down further if desired. I also applied several design recommendations such as minimize clutter, use of pre-attemptive features (color and bar lenghts), and being mindfull of cognitive load (effort required to interpret the data) by not including information that is not necessary or exagerating the use of bright colors. <p>
     <img src="./ProfitByCategory.png" alt="Profit by Categories and Regions" width=500   > </img><p>
   </li>
@@ -20,9 +27,7 @@ this repository is meant to showcase some of the Data Analytics personal project
  
   <img src="./DiscountKPI.png" alt="Discount and Profits KPIs" width=500   > </img><p>
   </li>
-  <li>Screenshot of guests analysis dashboard for Crystal Cruises: this was an interactive Tableau dashboard I developed that allowed executive users to explore the distribution of several guests dimensions (new X repeat guests, age, sex, preferred experience) by country of residence and sailing year. Data has been obcuscated for public display purposes. This visualization provided crucial insight into which markets/channels needed to have marketing and sales interventions to raise the proportion of new guests in future sales/years.<p>
-  <img src="./NewVRepeatGuestsAnalysis.png" alt="Guest Analysis" width=500   > </img><p>
-  </li>
+ 
    <li> Examples of using Tableau for data exploration and detection of outliers: <p>
   <table border="0">
     <tr>
@@ -37,10 +42,7 @@ this repository is meant to showcase some of the Data Analytics personal project
     </tr>
   </table>
    </li>
-   <li> World Energy Sources Trends Analysis from 2000 thru 2016: data preparation in Python and Tableau Prep.
-    <br><A href="https://public.tableau.com/app/profile/monica.rossetti/viz/WorldTrendsonEnergySources/Dashboard1?publish=yes">Tableau Public Dashboard</a><p>
-    <br><img src="./WorldEnergySources.png" alt="World EnergySources" width=700   >
-  </li>
+
 <BR/>
 <p>I hope you enjoy the content! <br/>
 <p>Thank you for visiting,<br/> 
